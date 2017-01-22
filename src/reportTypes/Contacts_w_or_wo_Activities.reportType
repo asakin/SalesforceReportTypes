@@ -496,12 +496,6 @@ The report type is based on the contact object w/ or w/o account details</descri
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <displayNameOverride>D&amp;B Company</displayNameOverride>
-            <field>Account.DandbCompany</field>
-            <table>Contact</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
             <displayNameOverride>Data.com Key</displayNameOverride>
             <field>Account.Jigsaw</field>
             <table>Contact</table>

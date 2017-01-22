@@ -282,12 +282,6 @@
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <displayNameOverride>Account: D&amp;B Company</displayNameOverride>
-            <field>Account.DandbCompany</field>
-            <table>Opportunity</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
             <displayNameOverride>Account: Data.com Key</displayNameOverride>
             <field>Account.Jigsaw</field>
             <table>Opportunity</table>

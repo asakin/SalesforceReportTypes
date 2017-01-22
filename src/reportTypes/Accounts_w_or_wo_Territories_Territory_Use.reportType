@@ -67,12 +67,6 @@
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <displayNameOverride>D&amp;B Primary Business Name</displayNameOverride>
-            <field>DandbCompany</field>
-            <table>Account</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
             <field>Jigsaw</field>
             <table>Account</table>
         </columns>
@@ -164,7 +158,7 @@
             <displayNameOverride>Account Type</displayNameOverride>
             <field>Type</field>
             <table>Account</table>
-        </columns>    
+        </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>Tradestyle</field>

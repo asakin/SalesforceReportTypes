@@ -718,25 +718,4 @@ The report type is based on the contact object w/ or w/o account details</descri
         </columns>
         <masterLabel>Account: Ph/Fax/Website</masterLabel>
     </sections>
-    <sections>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
-            <displayNameOverride>SLA</displayNameOverride>
-            <field>Account.SLA__c</field>
-            <table>Contact</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
-            <displayNameOverride>Tradestyle</displayNameOverride>
-            <field>Account.Tradestyle</field>
-            <table>Contact</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
-            <displayNameOverride>Year Started</displayNameOverride>
-            <field>Account.YearStarted</field>
-            <table>Contact</table>
-        </columns>
-        <masterLabel>Account: Custom</masterLabel>
-    </sections>
 </ReportType>

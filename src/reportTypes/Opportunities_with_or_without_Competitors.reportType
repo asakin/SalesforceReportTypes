@@ -372,12 +372,6 @@
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <displayNameOverride>Account: SLA</displayNameOverride>
-            <field>Account.SLA__c</field>
-            <table>Opportunity</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
             <displayNameOverride>Account: Ticker Symbol</displayNameOverride>
             <field>Account.TickerSymbol</field>
             <table>Opportunity</table>

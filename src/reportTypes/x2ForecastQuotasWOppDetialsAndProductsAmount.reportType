@@ -797,13 +797,4 @@
         </columns>
         <masterLabel>Account Ph/Fax/Website</masterLabel>
     </sections>
-    <sections>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
-            <displayNameOverride>SLA</displayNameOverride>
-            <field>Account.SLA__c</field>
-            <table>ForecastingQuota.ForecastingQuotaItems.ForecastingFactOpps</table>
-        </columns>
-        <masterLabel>Account Custom</masterLabel>
-    </sections>
 </ReportType>

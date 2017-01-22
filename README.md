@@ -1,5 +1,5 @@
 # Salesforce Report Types
-<a href="https://githubsfdeploy.herokuapp.com?owner=meighan&repo=SalesforceReportTypes">
+<a href="https://githubsfdeploy.herokuapp.com?owner=asakin&repo=SalesforceReportTypes">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>

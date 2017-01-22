@@ -278,14 +278,6 @@ The report type is based on the contact object w/ or w/o account details</descri
     <sections>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <field>Level__c</field>
-            <table>Contact</table>
-        </columns>
-        <masterLabel>Contact: Custom</masterLabel>
-    </sections>
-    <sections>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
             <field>Account</field>
             <table>Contact.Activities</table>
         </columns>
